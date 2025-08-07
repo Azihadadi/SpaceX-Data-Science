@@ -85,8 +85,6 @@ jupyter notebook
 - ✅ Hands-on data science pipeline  
 - 🌍 Interactive geospatial mapping  
 - 🧠 ML model to predict launch success  
-- 📂 Modular and clean repository layout  
-- 💼 Great for showcasing in CV or portfolio  
 
 ---
 
