@@ -29,12 +29,12 @@ SpaceX_Data_Science/
 │ └── dataset_part_2.csv
 │
 ├── notebooks/ # Jupyter notebooks by stage
-│ ├── data_collection_api.ipynb
-│ ├── data_wrangling.ipynb
-│ ├── eda_sqlite.ipynb
-│ ├── eda_visualization.ipynb
-│ ├── feature_engineering.ipynb
-│ └── ml_prediction.ipynb
+│ ├── data_collection_using_spacex_api.ipynb
+│ ├── data_wrangling_spacex.ipynb
+│ ├── eda_with_visuals.ipynb
+│ ├── exploratory_sqlite_analysis.ipynb
+│ ├── launch_site_location.ipynb
+│ └── predictive_modeling_spacex.ipynb
 │
 ├── images/ # Visual assets for README or reports
 │ └── space_banner.jpg
