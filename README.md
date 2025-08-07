@@ -1,6 +1,6 @@
 # 🚀 SpaceX Launch Analysis - Data Science Project
 
-![Space Banner](./images/space_banner.jpg)
+![Space Banner](./images/spacex_banner.jpg)
 
 > A complete **end-to-end data science project** analyzing SpaceX launches – from data collection to machine learning prediction.  
 > Developed as part of the **IBM Data Science Professional Certificate Capstone**, and enhanced for real-world showcase.  
