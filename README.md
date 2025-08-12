@@ -1,4 +1,4 @@
-# 🚀 SpaceX Launch Analysis - Data Science Project
+# SpaceX Launch Analysis - Data Science Project
 
 ![Space Banner](./images/spacex_banner.jpg)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛰️ Project Objectives
+## Project Objectives
 
 - Collect and wrangle SpaceX launch data from multiple sources (CSV, API, Web)
 - Perform exploratory data analysis and data visualization
@@ -20,7 +20,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 SpaceX_Data_Science/
 │
@@ -43,7 +43,7 @@ SpaceX_Data_Science/
 └── README.md # Project overview and documentation
 ```
 
-## 📊 Tools & Technologies
+## Tools & Technologies
 
 - `Python` 🐍
 - `Pandas`, `NumPy` 📊
@@ -55,7 +55,7 @@ SpaceX_Data_Science/
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. **Clone the repository:**
 
@@ -80,7 +80,7 @@ jupyter notebook
 ```
 ---
 
-## 📌 Highlights
+## Highlights
 
 - ✅ Hands-on data science pipeline  
 - 🌍 Interactive geospatial mapping  
@@ -88,14 +88,14 @@ jupyter notebook
 
 ---
 
-## 👨‍🚀 About
+## About
 
 This project was originally developed as part of the **IBM Data Science Professional Certificate Capstone** and then refined for public showcase.  
 It simulates working as a **Data Scientist** for a private aerospace company analyzing launch data to improve mission outcomes.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to connect if you're interested in this project or want to collaborate:
 
