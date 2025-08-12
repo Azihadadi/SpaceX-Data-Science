@@ -43,15 +43,15 @@ SpaceX_Data_Science/
 └── README.md # Project overview and documentation
 ```
 
-## Tools & Technologies
+## Tech Stack
 
-- `Python` 🐍
-- `Pandas`, `NumPy` 📊
-- `Matplotlib`, `Seaborn`, `Plotly` 📈
-- `Scikit-learn` 🤖
-- `Folium` 🌍
-- `SQLAlchemy`, `ipython-sql` 🗄️
-- `Jupyter Notebooks` 📓
+- `Python` 
+- `Pandas`, `NumPy` 
+- `Matplotlib`, `Seaborn`, `Plotly` 
+- `Scikit-learn` 
+- `Folium` 
+- `SQLAlchemy`, `ipython-sql` 
+- `Jupyter Notebooks` 
 
 ---
 
