@@ -55,7 +55,7 @@ SpaceX_Data_Science/
 
 ---
 
-## How to Run
+## Installation
 
 1. **Clone the repository:**
 
@@ -63,22 +63,6 @@ SpaceX_Data_Science/
 git clone https://github.com/Azihadadi/SpaceX_Data_Science.git
 cd SpaceX_Data_Science
 ```
-2. **(Optional) Create a virtual environment:**
-
-```bash
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-```
-3. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-4. **Launch Jupyter Notebooks:**
-```bash
-jupyter notebook
-```
----
 
 ## Highlights
 
