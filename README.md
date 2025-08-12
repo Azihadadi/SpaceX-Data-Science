@@ -55,7 +55,7 @@ SpaceX_Data_Science/
 
 ---
 
-## Installation
+## Setup Instructions
 
 1. **Clone the repository:**
 
