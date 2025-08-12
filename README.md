@@ -63,6 +63,10 @@ SpaceX_Data_Science/
 git clone https://github.com/Azihadadi/SpaceX_Data_Science.git
 cd SpaceX_Data_Science
 ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Highlights
 
