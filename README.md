@@ -84,9 +84,6 @@ It simulates working as a **Data Scientist** for a private aerospace company ana
 ---
 
 ## Contact
-
-Feel free to connect if you're interested in this project or want to collaborate:
-
 - GitHub: [Azadeh Hadadi](https://github.com/Azihadadi)
 - LinkedIn: _[َAzadeh Hadadi](https://www.linkedin.com/in/azadeh-hadadi/)_  
 
