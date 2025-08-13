@@ -60,8 +60,8 @@ SpaceX_Data_Science/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Azihadadi/SpaceX_Data_Science.git
-cd SpaceX_Data_Science
+git clone https://github.com/Azihadadi/SpaceX-Data-Science.git
+cd SpaceX-Data-Science
 ```
 2. Install dependencies:
    ```bash
